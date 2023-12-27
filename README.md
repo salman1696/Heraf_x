@@ -1,29 +1,22 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 26 07](https://github.com/salman1696/Heraf_x/assets/33120544/404aa643-00c7-45d3-91b3-42f888daf821)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 26 14](https://github.com/salman1696/Heraf_x/assets/33120544/28b24095-166a-4851-abdc-c7891e608ac9)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 26 22](https://github.com/salman1696/Heraf_x/assets/33120544/0063605b-a5c3-45ca-8fda-42200c6ede32)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 26 32](https://github.com/salman1696/Heraf_x/assets/33120544/3b554678-204a-4be1-aa23-dc10094d6351)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 26 40](https://github.com/salman1696/Heraf_x/assets/33120544/62d25c31-de50-4b62-9667-da1aada2f0ec)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 26 05](https://github.com/salman1696/Heraf_x/assets/33120544/29b923d5-b59b-4153-a981-f0a66cc48db3)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 21](https://github.com/salman1696/Heraf_x/assets/33120544/448a5f7c-eb28-4a55-a52c-235237f50704)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 26](https://github.com/salman1696/Heraf_x/assets/33120544/381e7a72-56bc-4517-8f5a-398d75e728dc)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 42](https://github.com/salman1696/Heraf_x/assets/33120544/b1026a20-8385-464e-a8d4-d16f31935df8)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 46](https://github.com/salman1696/Heraf_x/assets/33120544/478ec068-f983-4646-97e6-a22ff79758f2)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 24 01](https://github.com/salman1696/Heraf_x/assets/33120544/c896f940-cdd9-469d-b901-2f46684d406b)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 24 24](https://github.com/salman1696/Heraf_x/assets/33120544/be4da355-f9be-48fa-a1e1-d666d524a7c6)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 52](https://github.com/salman1696/Heraf_x/assets/33120544/6055b9c4-480a-4666-91b2-44c6919eba4c)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 24 34](https://github.com/salman1696/Heraf_x/assets/33120544/565559e9-a768-4ab0-83c3-b184b4d9d026)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 24 38](https://github.com/salman1696/Heraf_x/assets/33120544/86da43d9-34e9-481f-a490-b8d4bfd61fd8)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 57](https://github.com/salman1696/Heraf_x/assets/33120544/15897472-9de1-412e-aa91-51099cb2e975)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 24 42](https://github.com/salman1696/Heraf_x/assets/33120544/404d8fef-100b-41cf-90b6-eb5ca3e12f40)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 24 56](https://github.com/salman1696/Heraf_x/assets/33120544/bf3e8164-803c-4063-acb7-a166ad352f4a)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 07](https://github.com/salman1696/Heraf_x/assets/33120544/78f77e15-cf8e-4de9-928a-9270c28ae520)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-12-24 at 02 25 16](https://github.com/salman1696/Heraf_x/assets/33120544/d726ff26-86f5-4eea-a8bb-114cdfdd8750)
